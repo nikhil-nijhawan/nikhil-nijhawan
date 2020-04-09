@@ -1,0 +1,191 @@
+,att_id,att_name,place_name,att_cost
+0,0,Amsterdam Free Walking Tour,Amsterdam,$$
+1,1,Heineken Experience,Amsterdam,Free
+2,2,75-Minute Water Colors Cruise,Amsterdam,Free
+3,3,Van Gogh Museum Ticket,Amsterdam,$$$
+4,4,Johan Cruijff ArenA Stadium 75-Minute Tour,Amsterdam,$
+5,5,A?ÆDAM Lookout Premium Ticket Including 2 Drinks,Amsterdam,$$
+6,6,Keukenhof Entry Tickets and Transfers,Amsterdam,Free
+7,7,Skip the Line Ticket and Audio Guide: Amsterdam Royal Palace,Amsterdam,$$$$
+8,8,Ultimate Party Pub Crawl ?û Red Light District,Amsterdam,$
+9,9,Volendam Marken & Windmills with Free 1-Hour Canal Cruise,Amsterdam,$$$
+10,10,Las Ramblas,Barcelona,Free
+11,11,Sagrada Fam?¡lia,Barcelona,Free
+12,12,Casa Batll??,Barcelona,$$$$
+13,13,Casa Mil?á,Barcelona,Free
+14,14,City Beaches,Barcelona,$$
+15,15,La Boqueria,Barcelona,$$$$
+16,16,Camp Nou,Barcelona,$$
+17,17,Park G??ell,Barcelona,$$$$
+18,18,Barcelona City History Museum,Barcelona,Free
+19,19,Montju?»c,Barcelona,$$
+20,20,Brandenburg Gate,Berlin,Free
+21,21,Reichstag,Berlin,$
+22,22,Tiergarten,Berlin,$$
+23,23,Victory Column (Siegess?ñule),Berlin,$$$
+24,24,Museum Island,Berlin,$$
+25,25,Neues Museum,Berlin,$$$
+26,26,Gem?ñldegalerie,Berlin,Free
+27,27,Gedenkst?ñtte Berliner Mauer,Berlin,$$$$
+28,28,Pergamon Museum,Berlin,$$$$
+29,29, Deutsches Historisches Museum,Berlin,$$
+30,30,Parliament Building,Budapest,$$
+31,31,Gell??rt Baths,Budapest,Free
+32,32,Heroes?Æ Square,Budapest,$$$$
+33,33,Margaret Island,Budapest,$$$$
+34,34,Danube Promenade,Budapest,$$
+35,35,House of Terror,Budapest,$$
+36,36,St. Stephen?Æs Basilica,Budapest,$$
+37,37,Hungarian State Opera House,Budapest,Free
+38,38,Fisherman?Æs Bastion,Budapest,$
+39,39,Invisible Exhibition,Budapest,$$$$
+40,40,Tivoli Gardens,Copenhagen,Free
+41,41,Little mermaid statue,Copenhagen,$$$
+42,42,Str??get,Copenhagen,$
+43,43,Nyhavn,Copenhagen,$$
+44,44,Nationalmuseet,Copenhagen,$$$$
+45,45,Christiansborg Palace,Copenhagen,$$$
+46,46,Rent a bicycle,Copenhagen,$$$
+47,47,Botanical Garden,Copenhagen,Free
+48,48,Christiania,Copenhagen,$
+49,49,Rosenborg Castle,Copenhagen,Free
+50,50,Party like the Irish at The Temple Bar,Dublin,$
+51,51,Drink Inside a Restored Cathedral at The Church,Dublin,Free
+52,52,Visit the Guinness Storehouse Factory,Dublin,Free
+53,53,Take a Tour of the Old Jameson Distillery,Dublin,$$
+54,54,Take a photo with The Spire of Dublin,Dublin,$$$
+55,55,Marvel at the Beauty of St. Patrick?Æs Cathedral,Dublin,$$$
+56,56,Go Back in Time to Dublin Castle,Dublin,$$$$
+57,57,Take a Walk over Ha?Æpenny Bridge,Dublin,$$
+58,58,Visit Christ Church Cathedral,Dublin,$
+59,59,Have a Picnic in Phoenix Park,Dublin,$
+60,60,Edinburgh Castle,Edinburgh,$$$$
+61,61,Princes Street,Edinburgh,$$
+62,62,Holyrood Palace,Edinburgh,Free
+63,63,Camera Obscura,Edinburgh,Free
+64,64,Arthur?Æs Seat,Edinburgh,$$$$
+65,65,Mary King?Æs Close,Edinburgh,Free
+66,66,St Giles?Æ Cathedral,Edinburgh,$$
+67,67,Scottish National Gallery,Edinburgh,$
+68,68,Scott Monument,Edinburgh,$$$
+69,69,Royal Botanic Garden,Edinburgh,Free
+70,70,Suomenlinna,Helsinki,$$$$
+71,71,Helsinki Cathedral,Helsinki,Free
+72,72,Esplanadi,Helsinki,$$$
+73,73,Temppeliaukio Church,Helsinki,Free
+74,74,Seurasaari Island,Helsinki,$
+75,75,Uspenski Cathedral,Helsinki,$$
+76,76,Old Market Hall,Helsinki,Free
+77,77,Urban Sauna visit,Helsinki,$$$
+78,78,Linnanm?ñki,Helsinki,Free
+79,79,Crayfish parties,Helsinki,$$$$
+80,80,Wonder at the Torre de Bel??m,Lisbon,Free
+81,81,Ride Tram 28,Lisbon,$$$
+82,82,Get lost in the Alfama District,Lisbon,$
+83,83,Make a trip to Sintra,Lisbon,$
+84,84,Enjoy the azulejos in the National Tile Museum,Lisbon,$$$$
+85,85,Conquer the bulwarks of St George?Æs Castle,Lisbon,$$
+86,86,Trace glorious history in the Monastery of Jer??nimos,Lisbon,Free
+87,87,Go underwater in the Lisbon Oceanarium,Lisbon,$$
+88,88,Wonder at the master works of the National Museum of Ancient Art,Lisbon,$$$$
+89,89,Get a taste of the East in Museu do Oriente,Lisbon,$$$
+90,90,Pre?Üeren Square,Ljubljana,$$$$
+91,91,Triple Bridge,Ljubljana,$
+92,92,Ljubljana Castle,Ljubljana,$$
+93,93,Dragon Bridge,Ljubljana,$$$$
+94,94,Tivoli Park,Ljubljana,$$
+95,95,Ljubljana Cathedral,Ljubljana,$$$$
+96,96,Central Market,Ljubljana,$$$
+97,97,Franciscan Church of the Annunciation,Ljubljana,$
+98,98,National Gallery of Slovenia,Ljubljana,$$
+99,99,Metelkova Mesto,Ljubljana,$
+100,100,Tower Bridge,London,$$$
+101,101,Tate Modern,London,$$$
+102,102,Shakespeare?Æs Globe,London,$$$
+103,103,Borough Market,London,$$$
+104,104,The Shard,London,Free
+105,105,Southwark Cathedral,London,$$$
+106,106,Millennium Bridge,London,Free
+107,107,Imperial War Museum London,London,$$
+108,108,HMS Belfast,London,Free
+109,109,The Old Operating Theatre Museum and Herb Garret,London,Free
+110,110,Bygd??y Peninsula,Oslo,$
+111,111,Viking Ship Museum,Oslo,$
+112,112,Frogner Park,Oslo,$$$$
+113,113,Vigeland Museum,Oslo,Free
+114,114,Fram Museum,Oslo,$$
+115,115,Norwegian Folk Museum,Oslo,Free
+116,116,Norwegian National Gallery,Oslo,$$$
+117,117,Oslo Opera House,Oslo,$$
+118,118,Kon-Tiki Museum,Oslo,$$$$
+119,119,Holmenkollen Ski Museum & Tower,Oslo,$$$
+120,120,The Louvre,Paris,Free
+121,121,Mus??e d?ÆOrsay,Paris,$$$
+122,122,Eiffel Tower,Paris,$$$$
+123,123,Notre-Dame de Paris,Paris,$$$
+124,124,Palace of Versailles,Paris,$
+125,125,H??tel des Invalides,Paris,$$$
+126,126,Mus??e de l?ÆOrangerie,Paris,$$$$
+127,127,Centre Georges Pompidou,Paris,$$$$
+128,128,Arc de Triomphe,Paris,$$
+129,129,Sainte-Chapelle,Paris,$$
+130,130,See the Infant Jesus of Prague,Prague,$
+131,131,Explore the Old Town Square,Prague,$$
+132,132,Watch the Astronomical Clock Strike an Hour,Prague,$$$$
+133,133,Stroll across the Charles Bridge,Prague,Free
+134,134,Witness the old Jewish Ghetto,Prague,$$
+135,135,Visit Prague Castle,Prague,$
+136,136,See the Treasures of St Vitus Cathedral,Prague,Free
+137,137,Golden Lane ?û Playground for Alchemists,Prague,$$$$
+138,138,Eat a Pork Knuckle,Prague,$$$$
+139,139,Investigate the KGB Museum,Prague,Free
+140,140,Colosseum,Metropolitan City of Rome,$$$
+141,141,St Peter?Æs Square,Metropolitan City of Rome,$$$
+142,142,St. Peter?Æs Basilica,Metropolitan City of Rome,Free
+143,143,The Pantheon,Metropolitan City of Rome,$$$
+144,144,Trevi Fountain,Metropolitan City of Rome,$$
+145,145,Spanish Steps,Metropolitan City of Rome,Free
+146,146,Roman Forum,Metropolitan City of Rome,$$$
+147,147,Sistine Chapel,Metropolitan City of Rome,$$
+148,148,Vatican Museums,Metropolitan City of Rome,$$$$
+149,149,Piazza Navona,Metropolitan City of Rome,Free
+150,150,Gamla Stan,Stockholm,$$
+151,151,Skansen,Stockholm,$$$$
+152,152,Vasa Museum,Stockholm,$
+153,153,Modern Art Museum,Stockholm,$$
+154,154,The Medieval Museum,Stockholm,$$$$
+155,155,Junibacken,Stockholm,$
+156,156,Swedish History Museum,Stockholm,Free
+157,157,Royal Palace,Stockholm,$$
+158,158,Fotografiska,Stockholm,$$
+159,159,The City Hall,Stockholm,$
+160,160,Sch??nbrunn Palace,Vienna,$
+161,161,Hofburg Palace,Vienna,$$$
+162,162,St Stephen?Æs Cathedral,Vienna,$$$$
+163,163,Schonbrunn Gardens,Vienna,$
+164,164,Rathaus,Vienna,$$$
+165,165,Tiergarten Schonbrunn (Vienna Zoo),Vienna,$
+166,166,Belvedere Museum,Vienna,$$$$
+167,167,Vienna State Opera,Vienna,$$
+168,168,Vienna Natural History Museum,Vienna,$$
+169,169,Prater Amusement Park,Vienna,Free
+170,170,Old Town,Warsaw,$$
+171,171,Royal Route,Warsaw,$$$$
+172,172,Lazienki Park,Warsaw,$
+173,173,Old Town Market Place,Warsaw,$$$
+174,174,POLIN Museum of the History of Polish Jews,Warsaw,$
+175,175,Royal Castle,Warsaw,$$
+176,176,Castle Square,Warsaw,Free
+177,177,Warsaw Uprising Museum,Warsaw,Free
+178,178,Copernicus Science Centre,Warsaw,Free
+179,179,Palace of Culture and Science,Warsaw,$$
+180,180,Lake Z??rich,Zurich,$$
+181,181,Museum of Art,Zurich,$$$$
+182,182,Altstadt (Old Town),Zurich,$$
+183,183,Lindenhof,Zurich,$
+184,184,Z??rich-West,Zurich,$$$$
+185,185,Swiss National Museum,Zurich,$$$
+186,186,Grossm??nster,Zurich,$$
+187,187,Z??rich Zoo,Zurich,$$$
+188,188,Uetliberg,Zurich,$$$
+189,189,Niederdorf,Zurich,$
